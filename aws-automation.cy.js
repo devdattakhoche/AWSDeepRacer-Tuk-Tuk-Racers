@@ -74,5 +74,5 @@ function submitModel() {
 
   const resizeObserverLoopErrRe = /^[^(ResizeObserver loop limit exceeded)]/;
 
-  cy.wait(480000);
+  cy.wait(510000);
 }
